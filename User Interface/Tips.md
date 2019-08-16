@@ -1,4 +1,7 @@
 # Design tips from all over
+##### Note
+This is a tips list which means everything on these lists do not ALWAYS go together. Additionaly these are more like suggestions not a set of rule, which is why its a list of TIPS.
+
 #### Font
 1. Work with 1rem or 16px - steve schoger
 2. Use lineheight to help make text more attractive. - steve schoger
